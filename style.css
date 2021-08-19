@@ -1,0 +1,27 @@
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+}
+
+#contacts {
+  color: white;
+  font-size: large;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+div {
+  resize: both;
+  overflow: auto;
+}
+
+#name {
+  font-size: large;
+  font-family: Verdana;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: black;
+}
